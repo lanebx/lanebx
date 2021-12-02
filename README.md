@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lana
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning typeScript and React
+- 👀 React/JS/TypeScript/HTML5/CSS3 stack
+
 - 📫 temkaievawork@gmail.com
 
 <!---
