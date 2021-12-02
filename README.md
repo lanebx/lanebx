@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lanebx
+- 👋 Hi, I’m Lana
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning typeScript and React
 - 📫 temkaievawork@gmail.com
