@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lana
-- 👾 front-end developer
+- 👾 Front-end developer
 - 👀 Angular/React/JS/TypeScript/HTML5/CSS3 stack
 
 - 📫 temkaievawork@gmail.com
